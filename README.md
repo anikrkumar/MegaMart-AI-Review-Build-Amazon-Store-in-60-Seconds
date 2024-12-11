@@ -1,4 +1,4 @@
-
+# MegaMart AI Review: Build Amazon Store in 60 Seconds
 ![image](https://github.com/user-attachments/assets/beceb33d-60d7-4af2-87f1-49f09b5816e1)
 
 Are you searching for a quick and easy way to start an online store? Do you want to earn passive income through affiliate marketing without needing technical skills?
